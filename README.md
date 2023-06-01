@@ -8,9 +8,9 @@ This repository contains an image classification model for pedistrian detection 
 
 # Getting Started
 
-* Perpare dataset for this project by combine the given two datasets. Use the dataset one as person class and dataset two as no person class.
-** Gender classification dataset by combining as 1 class
-** https://www.kaggle.com/datasets/dataclusterlabs/zebra-crossing
+- Perpare dataset for this project by combine the given two datasets. Use the dataset one as person class and dataset two as no person class.
+  - Gender classification dataset by combining as 1 class
+  - https://www.kaggle.com/datasets/dataclusterlabs/zebra-crossing
 
 * Sign up for an account on the Edge Impulse platform at https://www.edgeimpulse.com/ if you haven't already.
 * Create a new project in Edge Impulse and choose the "Image" data type.
